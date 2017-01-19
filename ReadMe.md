@@ -3,20 +3,20 @@ Hunt The Wumpus
 Player Controls:
 
 		Movement:
-	Player 1
-		↑  - Up
-		↓  - Down
-		← - Left 
-		→ - Right
+			Player 1
+			↑  - Up
+			↓  - Down
+			← - Left 
+			→ - Right
 	
-		Player 2
-		I  - Up
-		K  - Down
-		J - Left 
-		L - Right
-Fire
-	Player 1: Spacebar 
-	Player 2: , 
+			Player 2
+			I  - Up
+			K  - Down
+			J - Left 
+			L - Right
+		Fire
+			Player 1: Spacebar 
+			Player 2: , 
 
 Gameplay:
 	You are a hunter in a system of caves, find your way around using the movement keys, if you see a cave with a red boundary
