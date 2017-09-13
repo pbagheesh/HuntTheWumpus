@@ -4,16 +4,16 @@ Player Controls:
 
 		Movement:
 			Player 1
-			↑  - Up
-			↓  - Down
-			← - Left 
-			→ - Right
+			↑ Up
+			↓ Down
+			← Left 
+			→ Right
 	
 			Player 2
-			I  - Up
-			K  - Down
-			J - Left 
-			L - Right
+			I Up
+			K Down
+			J Left 
+			L Right
 		Fire
 			Player 1: Spacebar 
 			Player 2: , 
